@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @theodoretriantafyllou
 - 👀 I’m interested in Linux
 - 🌱 I’m currently learning System Administration
-- 💞️ I’m looking to collaborate on DevOps and networking
 - 📫 How to reach me: theodore.triantafyllou@gmail.com
 
 <!---
